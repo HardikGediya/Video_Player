@@ -10,7 +10,7 @@
 ----------------------------------------------------------------------
 
 
-<h1 align="center"> Quick Login</a></h1>
+<h1 align="center">Video Player</a></h1>
 
 **This App Used for Instance Login And use.**
 
